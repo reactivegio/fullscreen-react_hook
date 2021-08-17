@@ -3,6 +3,7 @@
 
 This is a simple project to help on configure webpack5 on a new VanillaJs project with scss as preprocessed css.
 
+**DEMO: ** https://reactivegio.github.io/fullscreen-react_hook/
 
 **Step1**: install dependencies
 ```yarn install```
