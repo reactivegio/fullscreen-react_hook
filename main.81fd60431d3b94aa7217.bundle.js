@@ -621,9 +621,8 @@ const Fullscreen = () => {
       document.webkitExitFullscreen();
     }
   };
-
-  debugger;
   /** END:: fullscreen manage*/
+
 
   return /*#__PURE__*/react.createElement("div", {
     className: "flexyContainer",
@@ -656,4 +655,4 @@ react_dom.render( /*#__PURE__*/react.createElement(App, null), document.getEleme
 }();
 /******/ })()
 ;
-//# sourceMappingURL=main.42c273dea53fb7945178.bundle.js.map
+//# sourceMappingURL=main.81fd60431d3b94aa7217.bundle.js.map
