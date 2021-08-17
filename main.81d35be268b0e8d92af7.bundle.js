@@ -633,7 +633,7 @@ const Fullscreen = () => {
       isFullscreen ? handleExitFullscreen() : setIsFullscreen(true);
     }
   }, /*#__PURE__*/react.createElement("img", {
-    src: "../assets/img/fullscreen.svg",
+    src: "./assets/img/fullscreen.svg",
     alt: "fullscreen icon",
     title: "fullscreen icon",
     className: isFullscreen ? "compress" : "maximize"
@@ -655,4 +655,4 @@ react_dom.render( /*#__PURE__*/react.createElement(App, null), document.getEleme
 }();
 /******/ })()
 ;
-//# sourceMappingURL=main.81fd60431d3b94aa7217.bundle.js.map
+//# sourceMappingURL=main.81d35be268b0e8d92af7.bundle.js.map
